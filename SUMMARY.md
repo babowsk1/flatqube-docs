@@ -2,7 +2,7 @@
 
 * [Welcome to FlatQube](README.md)
 
-## 👨💻 Use
+## Use
 
 * [Getting started](use/getting-started/README.md)
   * [How it works](use/getting-started/how-it-works.md)
