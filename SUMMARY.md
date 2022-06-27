@@ -115,6 +115,10 @@
     * [Graphics API](integrate/open-api/flatqube-farming-indexer/graphics-api.md)
 * [Smart contracts](integrate/smart-contracts/README.MD)
     * [DexAccount](integrate/smart-contracts/dex-account.md)
+    * [DexPair](integrate/smart-contracts/dexpair.md)
+    * [DexPlatform](integrate/smart-contracts/dexplatform.md)
+    * [DexRoot](integrate/smart-contracts/dexroot.md)
+    * [DexVault](integrate/smart-contracts/dexvault.md)
 
 ## ↗ See also
 
