@@ -1,5 +1,5 @@
 ---
-discription: The EverWeverToTip3 defines the logic for swapping EVERs in combination with WEVERs to Tip3 tokens.
+description: The EverWeverToTip3 defines the logic for swapping EVERs in combination with WEVERs to Tip3 tokens.
 ---
 
 # EverWeverToTip3
