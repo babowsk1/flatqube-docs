@@ -1,5 +1,5 @@
 ---
-discription: With this smart contract you can swap evers to Tip3 tokens.
+description: With this smart contract you can swap evers to Tip3 tokens.
 ---
 
 # EverToTip3
