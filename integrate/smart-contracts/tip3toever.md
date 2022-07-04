@@ -1,5 +1,5 @@
 ---
-discription: The Tip3ToEver smart contract defines the logic for swapping Tip3 To Ever.
+description: The Tip3ToEver smart contract defines the logic for swapping Tip3 To Ever.
 ---
 
 # Tip3ToEver
