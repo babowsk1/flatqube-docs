@@ -6,7 +6,8 @@ description: The DexAccount defines the logic for managing inside of the dex poo
 
 Smart contract responsible for managing user transactions (withdraw/deposit tokens, withdraw/deposit liquidity, add pair, exchange) inside of the dex pool.
 
-Derives following classes and interfaces: _DexContractBase, IDexAccount, IAcceptTokensTransferCallback, IUpgradableByRequest, IResetGas_
+Derives following classes and interfaces:  
+ *_DexContractBase, IDexAccount, IAcceptTokensTransferCallback, IUpgradableByRequest, IResetGas_*
 
 ## Getters
 
