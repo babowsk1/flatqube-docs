@@ -1,5 +1,5 @@
 ---
-discription: The TokenFactory smart contract is used for deploying tokens, sets wallet, root, platform codes and managing ownership.
+description: The TokenFactory smart contract is used for deploying tokens, sets wallet, root, platform codes and managing ownership.
 ---
 
 # TokenFactory
