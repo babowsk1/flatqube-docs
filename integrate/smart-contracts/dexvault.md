@@ -6,7 +6,8 @@ description: The DexVault smart contract is used for creating vault and filling 
 
 Smart contract responsible for creating vault and filling initial data such as lp token, platform code, owner and manipulating vault’s transactions (transfer, withdraw).
 
-Derives following classes and interfaces: <u> *DexContractBase, IDexVault, IUpgradable, IResetGas.* </u>
+Derives following classes and interfaces:   
+<u> *DexContractBase, IDexVault, IUpgradable, IResetGas.* </u>
 
 ### **`constructor`** 
 

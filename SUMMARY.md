@@ -119,6 +119,11 @@
     * [DexPlatform](integrate/smart-contracts/dexplatform.md)
     * [DexRoot](integrate/smart-contracts/dexroot.md)
     * [DexVault](integrate/smart-contracts/dexvault.md)
+    * [DexVaultLpTokenPending](integrate/smart-contracts/dexvaultlptokenpending.md)
+    * [EverToTip3](integrate/smart-contracts/evertotip3.md)
+    * [EverWeverToTip3](integrate/smart-contracts/everwevertotip3.md)
+    * [Tip3ToEver](integrate/smart-contracts/tip3toever.md)
+    * [TokenFactory](integrate/smart-contracts/tokenfactory.md)
 
 ## ↗ See also
 

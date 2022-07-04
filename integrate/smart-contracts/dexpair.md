@@ -6,7 +6,8 @@ description: This smart contract defines the logic for managing exchange, cross 
 
 Smart contract of the dex pair responsible for managing exchange, cross pair exchange, deposit/withdraw liquidity inside the pair’s pool.
 
-Derives following classes and interfaces: <u>*DexContractBase, IDexPair, IAcceptTokensTransferCallback, IUpgradableByRequest, IResetGas, ITokenOperationStructure.*</u>
+Derives following classes and interfaces:   
+<u>*DexContractBase, IDexPair, IAcceptTokensTransferCallback, IUpgradableByRequest, IResetGas, ITokenOperationStructure.*</u>
 
 ## Getters
 

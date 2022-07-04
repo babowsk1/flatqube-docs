@@ -6,7 +6,8 @@ description: The DexRoot logic is used for deploying and updating pairs and acco
 
 Smart contract responsible for deploying and updating pairs and accounts, setting account/pair codes and other data related to the pairs and accounts such as vault and owner address. Gets version of account/pair.
 
-Derives following classes and interfaces: <u>*DexContractBase, IDexRoot, IResetGas, IUpgradable*</u>
+Derives following classes and interfaces:   
+<u>*DexContractBase, IDexRoot, IResetGas, IUpgradable*</u>
 
 
 ### **Contains `constructor` with params**
