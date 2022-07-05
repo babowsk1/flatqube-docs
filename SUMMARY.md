@@ -2,7 +2,7 @@
 
 * [Welcome to FlatQube](README.md)
 
-## Use
+## 👨💻 Use
 
 * [Getting started](use/getting-started/README.md)
   * [How it works](use/getting-started/how-it-works.md)
@@ -113,17 +113,17 @@
     * [Farming pools API](integrate/open-api/flatqube-farming-indexer/farming-pools-api.md)
     * [Transactions API](integrate/open-api/flatqube-farming-indexer/transactions-api.md)
     * [Graphics API](integrate/open-api/flatqube-farming-indexer/graphics-api.md)
-* [Smart contracts](integrate/smart-contracts/README.MD)
-    * [DexAccount](integrate/smart-contracts/dex-account.md)
-    * [DexPair](integrate/smart-contracts/dexpair.md)
-    * [DexPlatform](integrate/smart-contracts/dexplatform.md)
-    * [DexRoot](integrate/smart-contracts/dexroot.md)
-    * [DexVault](integrate/smart-contracts/dexvault.md)
-    * [DexVaultLpTokenPending](integrate/smart-contracts/dexvaultlptokenpending.md)
-    * [EverToTip3](integrate/smart-contracts/evertotip3.md)
-    * [EverWeverToTip3](integrate/smart-contracts/everwevertotip3.md)
-    * [Tip3ToEver](integrate/smart-contracts/tip3toever.md)
-    * [TokenFactory](integrate/smart-contracts/tokenfactory.md)
+* [Smart contracts](integrate/smart-contracts/README.md)
+  * [DexAccount](integrate/smart-contracts/dex-account.md)
+  * [DexPair](integrate/smart-contracts/dexpair.md)
+  * [DexPlatform](integrate/smart-contracts/dexplatform.md)
+  * [DexRoot](integrate/smart-contracts/dexroot.md)
+  * [DexVault](integrate/smart-contracts/dexvault.md)
+  * [DexVaultLpTokenPending](integrate/smart-contracts/dexvaultlptokenpending.md)
+  * [EverToTip3](integrate/smart-contracts/evertotip3.md)
+  * [EverWeverToTip3](integrate/smart-contracts/everwevertotip3.md)
+  * [Tip3ToEver](integrate/smart-contracts/tip3toever.md)
+  * [TokenFactory](integrate/smart-contracts/tokenfactory.md)
 
 ## ↗ See also
 
