@@ -13,14 +13,12 @@ These smart contracts define the logic for managing DEX Pools, managing liquidit
 **Libraries list:**
 
 * **DexErrors** - contains codes with all the errors and their meaning.
-* **DexGas** - cs value for different types of operations.
-* **DexOperationTypes** - Library that contains codes of all different dex operation types.
-* **DexPlatformTypes** - Library that contains codes for different platform types.
-* **EverToTip3Errors** - Library that contains codes with all the errors specifically related to EverToTip3 swap.
-* **EverToTip3Gas** - Library that contains gas values for different types of operations specifically related to EverToTip3 contract.
-* **EverToTip3OperationStatus** - Library that contains code values that represent operation status in EverToTip3 contract.
-* **TokenFactoryErrors** - Library that contains codes with all the errors related to the token factory.
-
-****
+* **DexGas** - contains value for different types of operations.
+* **DexOperationTypes** - contains codes of all different dex operation types.
+* **DexPlatformTypes** - contains codes for different platform types.
+* **EverToTip3Errors** - contains codes with all the errors specifically related to EverToTip3 swap.
+* **EverToTip3Gas** - contains gas values for different types of operations specifically related to EverToTip3 contract.
+* **EverToTip3OperationStatus** - contains code values that represent operation status in EverToTip3 contract.
+* **TokenFactoryErrors** - contains codes with all the errors related to the token factory.
 
 {% embed url="https://github.com/broxus/ton-dex/tree/master/contracts" %}
