@@ -11,6 +11,8 @@ There are several ways to go to the page for adding liquidity to a pair:
 
 ![](<../../../.gitbook/assets/image (164).png>)
 
+3\. In the **New Farming pool** section select <mark style="color:orange;">**Get LP Tokens**</mark>.
+
 First of all, you need to connect the pool to your \*\*\*\* [**Dex account**](connect-dex-account.md).\
 To do this, click **Connect Pool** and **confirm the transaction**. This action must be performed once for each new pool.
 
