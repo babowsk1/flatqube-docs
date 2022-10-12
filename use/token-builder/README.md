@@ -8,4 +8,3 @@ coverY: 0
 
 # Token builder
 
-B
