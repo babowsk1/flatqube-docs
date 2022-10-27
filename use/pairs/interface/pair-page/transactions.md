@@ -9,7 +9,7 @@ On the right side of this block, you can sort transactions by <mark style="color
 **Adds** - adding liquidity to the pool of this pair\
 **Removes** - removing liquidity from the pool of this pair
 
-![](<../../../../.gitbook/assets/image (18).png>)
+![](<../../../../.gitbook/assets/image (18) (1).png>)
 
 Below you can see several columns with transaction information:
 

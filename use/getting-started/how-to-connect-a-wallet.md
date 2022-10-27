@@ -14,7 +14,7 @@ As soon as you enter FlatQube, you will see the **Connect Wallet** button.
 
 Click on it to connect your Ever Wallet.
 
-!["Connect to a wallet" button at the Swap page](<../../.gitbook/assets/1 (2) (3).png>)
+!["Connect to a wallet" button at the Swap page](<../../.gitbook/assets/1 (1) (2) (5).png>)
 
 If your device does not have EVER Wallet installed, you will see a window with a download link:
 

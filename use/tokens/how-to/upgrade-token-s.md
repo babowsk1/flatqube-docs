@@ -4,11 +4,11 @@ If you have obsolete tokens in your EVER wallet (for example, TIP-3), then when 
 
 Let's go through all the steps to upgrade tokens:
 
-![This is the token upgrade window. It will automatically open if you have obsolete tokens in your wallet.](<../../../.gitbook/assets/image (13).png>)
+![This is the token upgrade window. It will automatically open if you have obsolete tokens in your wallet.](<../../../.gitbook/assets/image (13) (1).png>)
 
 Click **Upgrade** to start the token upgrade process.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)
 
 At this point, an EVER Wallet window will open, where you will need to confirm the transaction.\
 \

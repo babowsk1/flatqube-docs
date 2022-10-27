@@ -36,7 +36,7 @@ The administrator of the farming pool can at any time deposit tokens into the po
 
 The administrator has to monitor the balance of the farming pool. If there are not enough tokens on the balance to pay all the rewards, the pool will be automatically marked with a danger icon in the general list.
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (9) (1).png>)
 
 ### Changing the farming speed
 

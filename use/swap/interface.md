@@ -16,7 +16,7 @@ In the upper right part of the swap window, you can see a gear⚙️\*\*.\*\* Th
 **From** - is the amount of tokens that will be converted into a certain amount of other tokens - **To.**\
 \*\*\*\*Click on **Max** to select all exchangeable tokens.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (32) (2) (8).png>)
 
 After selecting a certain amount of tokens in **From** or **To**, a few more informative lines will appear:
 

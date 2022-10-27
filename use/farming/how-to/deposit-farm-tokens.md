@@ -29,6 +29,6 @@ In this case, we can start yield farming.
 
 ![(1)](<../../../.gitbook/assets/image (166).png>)
 
-![(2,3)](<../../../.gitbook/assets/image (5).png>)
+![(2,3)](<../../../.gitbook/assets/image (5) (1).png>)
 
 ![(4)](<../../../.gitbook/assets/image (196).png>)

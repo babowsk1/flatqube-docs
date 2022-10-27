@@ -16,7 +16,7 @@ In order to withdraw your tokens from the liquidity pool, you need to go to the 
 
 In both cases, the final page will be **Remove Liquidity** for the selected pair.
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 Here you can see your [**Pool Share**](../pool-economics.md) as well as the exact amount of tokens that make up your liquidity.
 

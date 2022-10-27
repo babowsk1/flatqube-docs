@@ -4,4 +4,4 @@ Click on the arrow in the upper right part of the first block of the page to go 
 
 ![](<../../../../.gitbook/assets/image (140).png>)
 
-![](<../../../../.gitbook/assets/image (27).png>)
+![](<../../../../.gitbook/assets/image (27) (1).png>)

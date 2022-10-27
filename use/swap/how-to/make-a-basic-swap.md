@@ -10,14 +10,14 @@ Let's make a basic swap!
 
 First, [connect your wallet](../../getting-started/how-to-connect-a-wallet.md) by clicking Connect to a wallet.
 
-![](<../../../.gitbook/assets/1 (2) (4).png>)
+![](<../../../.gitbook/assets/1 (1) (2) (7).png>)
 
 ### Select tokens
 
 After that, we will select **WEVER** as the token we want to exchange in the **From** column.\
 Let's say we want **USDC** in exchange for **WEVER**. To do this, select the appropriate token in the **To** column.
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 ### Select an amount
 
