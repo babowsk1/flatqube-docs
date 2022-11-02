@@ -105,6 +105,7 @@
     * [veQUBE](use/dao/concept/veqube.md)
     * [Epoch](use/dao/concept/epoch.md)
     * [Boosted farming](use/dao/concept/boosted-farming.md)
+    * [FAQ](use/dao/concept/faq.md)
 * [Token builder](use/token-builder/README.md)
   * [Interface](use/token-builder/interface/README.md)
     * [Explorer](use/token-builder/interface/explorer.md)
