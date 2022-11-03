@@ -12,4 +12,4 @@ Upon completion, you will see the updated <mark style="color:green;">**Supply**<
 
 ![](<../../../.gitbook/assets/image (170).png>)
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1) (1).png>)

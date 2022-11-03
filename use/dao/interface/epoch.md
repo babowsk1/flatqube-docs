@@ -17,7 +17,7 @@ This page displays statistics of the selected Epoch, information about your vote
 
 Also in the center of this page you can see a graphical representation of the distribution of votes by currency pairs.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Total information</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><strong>Total information</strong> block</p></figcaption></figure>
 
 **Your vote** displays the statistics of your votes:
 

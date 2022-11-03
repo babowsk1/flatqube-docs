@@ -38,7 +38,7 @@ Below is the list of **previous Epochs:**
 * **Your vote** - the number of your veQUBEs used as votes in the voting of an Epoch.
 * **Period** - the period of the beginning and end of an Epoch
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p><strong>Previoust Epochs</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p><strong>Previoust Epochs</strong> block</p></figcaption></figure>
 
 At the bottom of the page you can see the list of **candidates**.
 
