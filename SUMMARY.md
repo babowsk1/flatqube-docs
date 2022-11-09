@@ -105,7 +105,7 @@
     * [Reward distribution](use/farming/concepts/reward-distribution.md)
     * [Vesting](use/farming/concepts/vesting.md)
     * [Farming token](use/farming/concepts/farming-token.md)
-    * [Reward token](use/farming/concepts/reward-token.md)
+    * [Pool share](use/farming/concepts/reward-token.md)
     * [Boosted farming](https://docs.flatqube.io/use/dao/concept/boosted-farming)
 * [DAO](use/dao/README.md)
   * [Interface](use/dao/interface/README.md)
