@@ -2,7 +2,7 @@
 
 To go to this page, click on **See epoch details** on the right side of the [DAO homepage](dao-page.md).
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Click on <strong>Epoch details</strong> to go to the Epoch page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Click on <strong>Epoch details</strong> to go to the Epoch page</p></figcaption></figure>
 
 This page displays statistics of the selected Epoch, information about your vote, and information about candidates:&#x20;
 

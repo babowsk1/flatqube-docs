@@ -10,7 +10,7 @@ Your virtual balance can be increased through either locked QUBE (veQUBE) or loc
 
 Total deposits (TD) — is just the total amount of the user’s deposits in a specific gauge. We need this new entity when measuring locked deposits.
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (12) (1).png>)
 
 Where:
 
@@ -20,7 +20,7 @@ Where:
 veQUBE — vote escrowed tokens, which can be obtained by locking QUBE.\
 The amount of veQUBE remains static for the whole duration of the lock.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Were:
 
@@ -28,7 +28,7 @@ Were:
 
 Ve-boosted deposit (veBD) – part of the virtual balance which is calculated from the user’s veQUBE amount:
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 Where:
 
@@ -59,7 +59,7 @@ LP-locked boosted deposit multiplier (lBD multiplier) – boost we get for locke
 
 Finally, virtual balance — the balance to which the user’s weight in the farming pool will be applied
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ### **Conclusion**
 

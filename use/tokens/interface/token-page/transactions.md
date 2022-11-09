@@ -16,7 +16,7 @@ Here you will see several columns with information:
 **Left and Right token** - the number of corresponding tokens involved in the transaction.\
 **Account** - address of the account that made this transaction.
 
-![](<../../../../.gitbook/assets/image (12) (1).png>)
+![](<../../../../.gitbook/assets/image (12) (1) (1).png>)
 
 At the bottom of this block, you can switch between pages or go directly to a specific one.
 

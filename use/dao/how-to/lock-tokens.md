@@ -4,7 +4,7 @@ In order to participate in the voting, you need to get veQUBE tokens. The only w
 
 On the right side of the page you will see **Deposit QUBE tokens:**
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the amount of QUBE tokens you want to deposit or press **Max** to select the maximum possible amount.
 2. Enter the number of days you want to look your QUBE tokens. The longer the tokens are locked, the more veQUBEs you will receive. The maximum locking period is 4 years
@@ -13,4 +13,4 @@ On the right side of the page you will see **Deposit QUBE tokens:**
 5. After the transaction is completed, you will see the completed transaction in transactions history and the information about the deposit in the deposits section.
 6. The number of your veQUBE tokens will be reflected on your balance**.**
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>

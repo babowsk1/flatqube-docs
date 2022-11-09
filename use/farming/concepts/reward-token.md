@@ -18,4 +18,3 @@ Rewards are constantly being calculated, and the **Farming Speed** for a pool ca
 
 To calculate the profitability of farming on **FlatQube**, the **APR** (annual percentage rate) is used.
 
-\\

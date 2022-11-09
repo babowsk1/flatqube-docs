@@ -35,14 +35,14 @@ When the lock time ends, the investor gets their QUBE tokens returned to their w
 
 We have used the curve approach**:**
 
-****<img src="../../../.gitbook/assets/image (17).png" alt="" data-size="original">****
+****<img src="../../../.gitbook/assets/image (17) (1).png" alt="" data-size="original">****
 
 Where:
 
 * **Td** – total deposits.&#x20;
 * **d** – deposit of the user.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **veBd** – ve-boosted balance.
 * **Gd** – total gauge deposits (TVL of a specific pair in the gauge).

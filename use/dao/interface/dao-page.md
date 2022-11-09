@@ -15,7 +15,7 @@ At the top of the page, general statistics is provided:
 * **Average locktime** - the average time for which QUBE tokens are locked.
 * **Percentage of total QUBE supply** - the percentage of the total QUBEs issued. You can see the total supply issued here.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p><strong>Statistics block</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><strong>Statistics block</strong></p></figcaption></figure>
 
 Below you can see the **Epochs** block. It displays the following information:
 
@@ -28,7 +28,7 @@ Below you can see the **Epochs** block. It displays the following information:
 
 In the center of the block, you can see a graphical representation of the distribution of votes by currency pairs.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p><strong>Epoch</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p><strong>Epoch</strong> block</p></figcaption></figure>
 
 Below is the list of **previous Epochs:**
 
