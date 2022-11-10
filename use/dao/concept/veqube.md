@@ -49,7 +49,7 @@ Where:
 * **veQUBE** – number of veQUBE that the user has.
 * **TveQUBE** – total circulating supply of veQUBE.
 
-You can read about the formula for boosted farming from LP locking, summation of locks, and examples in the [boosted farming section](boosted-farming.md).
+You can read about the formula for boosted farming from LP locking, summation of locks, and examples in the [boosted farming section](../../farming/concepts/boosted-farming.md).
 
 ## How often can you vote?
 

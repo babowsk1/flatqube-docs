@@ -14,7 +14,7 @@ To create a farming pool, go to the **Farming** section and select **Create farm
 In the page that opens, you need to fill in some fields:
 
 1. First, copy the root address of the token that will be used for farming (LP token) and paste this address into the **Farm token root** line.
-2. If necessary, check the box next to **Active** [**token boost**](../../../dao/concept/boosted-farming.md). \
+2. If necessary, check the box next to **Active** [**token boost**](../../concepts/boosted-farming.md). \
    Enter the maximum token lock period as well as the maximum boost ratio.
 3. The standard reward token is QUBE, but you can add any other token as a reward. \
    To do this, click **Add reward token** at the bottom left of the page, enter the root address of the token, the [vesting ](../../concepts/vesting.md)period and the [vesting ](../../concepts/vesting.md)ratio.

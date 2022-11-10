@@ -13,7 +13,7 @@ This page also displays various columns with farm pool information:
 
     **Max. APR** is the profitability for the maximum boost coefficient for LP tokens and the boost for locking QUBE tokens.
 
-    You can find out more about the boosting mechanism via following [this page.](../../../dao/concept/boosted-farming.md)
+    You can find out more about the boosting mechanism via following [this page.](../../concepts/boosted-farming.md)
 * **Share** is your share in the farming pool. This is the percentage of the TVL that your locked liquidity constitutes.\
   At the same time, Share also means the percentage of the reward that you will receive for every unit of time.
 * **Your reward** is the reward available for the [claim](../../old-farming/how-to/claim-reward.md).
