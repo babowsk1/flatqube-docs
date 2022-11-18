@@ -6,6 +6,16 @@ Boosted farming is a virtual increase in your balance. In other words, this virt
 
 Your virtual balance can be increased through either locked QUBE (veQUBE) or locked LP tokens sent for farming. When you create a pool in the new farm, boosted farming from veQUBE takes place automatically, while the boost from locking LP is configured when you add a pool to the new farm and can range from zero to four years.
 
+In order to clearly demonstrate how Boosted Farming works, the FlatQube team has developed the Farming Boost Calculator.
+
+[Farming Boost Calculator](https://app.flatqube.io/gauges/calc) is an in-built interface on FlatQube that allows you to assess the potential profit from farming in an understandable way. It takes into account such indicators as the number of LP tokens and their locking time, as well as the number of QUBEs locked in DAO and the time of their locking.
+
+Since the amount of the reward, as well as the speed of its distribution in QUBEs is dynamic (changes with every epoch), the calculator will not allow you to estimate your earnings in the long term. That is because there is no guarantee that the previous APY will not change.
+
+Nevertheless, it is a very useful and convenient tool that allows you to understand how various aspects of Boosted Farming affect your potential income. It will also permit you to evaluate the possible income in the current Epoch.
+
+Below you can find a mathematical explanation of Boosted Farming working principles:
+
 ## Increasing your balance through veQUBE:
 
 Total deposits (TD) — is just the total amount of the user’s deposits in a specific gauge. We need this new entity when measuring locked deposits.
