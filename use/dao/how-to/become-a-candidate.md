@@ -1,12 +1,18 @@
 # Become a candidate
 
-You can add your own (and not only) pool to the next era using the Add Candidate interface.&#x20;
+In the [old custom farming pools](../../farming/old-farming/), the reward continues to be paid in reward tokens, which the administrator of that pool adds himself.
 
-The cost of adding a candidate is 1000 QUBE.
+However, since the appearance of gauges (new farming pools) and DAO, you have the opportunity to create a farming pool whose QUBE reward balance will be added with tokens, the distribution of which is the result of voting in the Epoch, in which this candidate was included. More information about this on the [Reward distribution page](../../farming/concepts/reward-distribution.md).
 
-After adding a candidate, it will appear in the next epoch.&#x20;
+In addition to QUBE, you can also add any custom token as a reward. The addition of this token to the Reward balance will be handled manually by the pool administrator.
 
-However, if within four epochs (8 weeks) this candidate does not reach the minimum number of votes (1%), this candidate will be removed from voting in further epochs.
+Let's move on to the terms and conditions.
+
+Adding a candidate costs 1000 QUBE. The QUBE given to create an application will be burned. At the same time you can add a candidate only during the "Awaiting" period of the Epoch.
+
+Once a candidate is added (paying 1000 QUBE), he or she will be on the ballot for the next epoch.
+
+However, if within four epochs (8 weeks) that candidate does not reach the minimum number of votes (1%), that candidate will be removed from voting in subsequent epochs. However, immediately after that, you will be able to reapply to add that candidate and the whole process will repeat.
 
 So, let's look at how to add your own candidate:
 
