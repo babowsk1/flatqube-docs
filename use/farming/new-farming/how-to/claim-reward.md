@@ -6,4 +6,4 @@ Passing through the vesting, your locked reward is gradually unlocked and become
 2. In the block Your farming performance click on Claim reward&#x20;
 3. Confirm the transaction in the opened Ever Wallet window.
 
-<figure><img src="../../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>

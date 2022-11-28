@@ -5,7 +5,7 @@ Keep in mind that since you are dealing with two pools at once, your [**slippage
 
 The process of conducting a transaction does not differ from a[ **regular swap** ](make-a-basic-swap.md)- Click **Swap**, then **Confirm** and **confirm your transaction** in EVER Wallet.
 
-![](<../../../.gitbook/assets/image (199).png>)
+<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../concepts/cross-exchange.md" %}
 [cross-exchange.md](../concepts/cross-exchange.md)

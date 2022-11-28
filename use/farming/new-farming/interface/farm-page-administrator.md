@@ -46,7 +46,7 @@ Recall that QUBE rewards [are added](../../concepts/reward-distribution.md) to t
 3. Confirm the transaction in the Ever Wallet window that opens and wait for it to close.
 4. Then you will see this transaction in the transaction list at the bottom of the pool page and its Reward balance will change.
 
-<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (38) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Change farming speed
 
@@ -72,6 +72,6 @@ You have the ability to manually stop the farming in your pool. \
 3. Click on the Danger zone at the top of the window that opens
 4. Enter the date and time when the farming ends. At this point, farming will stop and you can collect the remaining Reward tokens.
 
-<figure><img src="../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (43) (3).png" alt=""><figcaption></figcaption></figure>
 
 ****

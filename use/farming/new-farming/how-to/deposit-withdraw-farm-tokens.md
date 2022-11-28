@@ -21,4 +21,4 @@ In order to withdraw LP tokens from the farming pool do the following:
 3. Enter the number of LP tokens you want to withdraw. If you want you can withdraw them together with the reward. To do this, put a check mark next to the corresponding line.
 4. Click Withdraw and confirm the transaction in the opened Ever Wallet window.
 
-<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (33) (2).png" alt=""><figcaption></figcaption></figure>

@@ -25,4 +25,4 @@ So, let's look at how to add your own candidate:
 
 4\. Congratulations! This candidate will be on the voting in the next epoch.
 
-<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32) (3).png" alt=""><figcaption></figcaption></figure>
