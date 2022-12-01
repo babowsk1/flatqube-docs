@@ -13,8 +13,8 @@ Please note that this action is irreversible and after the transfer of ownership
 
 Enter the address of the new owner of the token and click **Confirm**. Then click **Confirm transaction** in your EVER Wallet and wait for the transfer to complete.
 
-![](<../../../.gitbook/assets/image (85).png>)
+![](<../../../.gitbook/assets/image (85) (1).png>)
 
 At the end of the process, the token will disappear from the [**Builder section**](../) of the previous owner of the token and will be sent to the <mark style="color:green;">**current owner**</mark>:
 
-![](<../../../.gitbook/assets/image (63).png>)
+![](<../../../.gitbook/assets/image (63) (1).png>)

@@ -27,8 +27,4 @@ In this case, we can start yield farming.
 3. Click **Deposit** and confirm transaction in EVER Wallet.
 4. After the transaction is completed, the pool page will change and you will see a new block - [My farming performance](../interface/farm-page-user/#my-farming-performance-and-farming-balances).
 
-![(1)](<../../../../.gitbook/assets/image (166).png>)
-
-![(2,3)](<../../../../.gitbook/assets/image (5) (1) (1).png>)
-
-![(4)](<../../../../.gitbook/assets/image (196).png>)
+<figure><img src="../../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>

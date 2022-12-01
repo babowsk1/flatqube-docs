@@ -5,4 +5,4 @@
 To switch the graph to TVL, click the corresponding button on the graph.\
 You can switch between chart display modes: by hours (**H**) and by days (**D**) for more convenient tracking of TVL changes.
 
-![](<../../../../.gitbook/assets/image (174).png>)
+<figure><img src="../../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

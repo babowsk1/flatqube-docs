@@ -13,9 +13,9 @@ On the left you can see the following values:
 * **Farming speed, sec** - the reward that is distributed to all farmers of this pool every**.**
 * Your **Share** means the percentage you get of that number every second.
 
-![](<../../../../../.gitbook/assets/image (72).png>)
+<figure><img src="../../../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 The graph on the right shows the change in **TVL** or **APR**, depending on the <mark style="color:green;">display mode</mark>. \
 You can also change the display mode to easily track changes: <mark style="color:red;">**By hour (1H) or by day (1D)**</mark><mark style="color:red;">.</mark>
 
-![](<../../../../../.gitbook/assets/image (33) (1).png>)
+<figure><img src="../../../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>

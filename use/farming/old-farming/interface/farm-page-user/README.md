@@ -9,28 +9,28 @@ Let's take a closer look at each block of this page using the wEVER/BRIDGE farmi
 
 This blocks displays information about your [**balances** ](farming-perfomance-and-balances.md)in this farming pool.
 
-![](<../../../../../.gitbook/assets/image (51).png>)
+<figure><img src="../../../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ### [Farming pool statistics](statistics.md)
 
 This block displays the [statistics ](statistics.md)of this Farming pool, as well as a graph of its TVL and APR.
 
-![](<../../../../../.gitbook/assets/image (175).png>)
+<figure><img src="../../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ### [Farming speed changes](broken-reference)
 
 This block displays the current [Farming Speed](broken-reference), as well as the history of its changes.
 
-![](<../../../../../.gitbook/assets/image (76).png>)
+<figure><img src="../../../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### [Details](farm-information.md)
 
 This block displays information about the [vesting ](../../../concepts/vesting.md)of this farming pool, as well as the addresses of contracts.
 
-![](<../../../../../.gitbook/assets/image (3) (1) (1).png>)
+<figure><img src="../../../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### [Transactions](transactions.md)
 
 This block displays information about the latest [transactions ](transactions.md)in this farming pool.
 
-![](<../../../../../.gitbook/assets/image (137).png>)
+<figure><img src="../../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

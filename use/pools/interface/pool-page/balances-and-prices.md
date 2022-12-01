@@ -8,4 +8,4 @@ Below are 3 <mark style="color:orange;">**Your balance**</mark> blocks:
 * **The Wallet balance** displays information about the locked liquidity, which is directly on the balance of your DEX account in the form of LP tokens.
 * **Locked in farming pools** shows information about your LP tokens locked in the [farming pools](../../../farming/old-farming/interface/farming-pools.md) of this pair (farming tokens).
 
-![](<../../../../.gitbook/assets/image (15) (1).png>)
+<figure><img src="../../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>

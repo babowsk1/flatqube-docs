@@ -10,22 +10,22 @@ Let's take a closer look at each block of this page using the QUBE/WEVER farming
 
 This blocks displays information about your balances in this farming pool.​​​
 
-<figure><img src="../../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## [Farming pool statistics​](statistics.md)
 
 This block displays the statistics of this Farming pool, as well as a graph of its TVL and APR.​​​
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 ## [Farming speed](../farming-pools.md)
 
 This block displays the current farming speed, the history of its changes, as well as information about vesting.
 
-<figure><img src="../../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (26) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## ​[Transactions​](transactions.md) <a href="#transactions" id="transactions"></a>
 
 This block displays information about the latest [transactions ](transactions.md)in this farming pool.​
 
-<figure><img src="../../../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>

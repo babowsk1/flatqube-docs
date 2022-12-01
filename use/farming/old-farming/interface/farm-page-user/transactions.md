@@ -20,4 +20,4 @@ In addition to transaction types, this block displays related information:
 * **Account** - the address of the account from which the transaction was made.
 * **Time** - the time that has elapsed since the completion of the transaction.
 
-![](<../../../../../.gitbook/assets/image (68).png>)
+<figure><img src="../../../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>

@@ -14,7 +14,7 @@ Here you can set the [**slippage tolerance**](how-to/configure-slippage-toleranc
 **From** - is the amount of tokens that will be converted into a certain amount of other tokens - **To.**\
 Click on **Max** to select all exchangeable tokens.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 After selecting a certain amount of tokens in **From** or **To**, a few more informative lines will appear:
 

@@ -28,7 +28,7 @@ Choose one of them (FlatQube will work with the address of this account only) an
 
 Select all **permissions** and click **Connect**.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the connection was successful, you will see the wallet address and the amount of EVER in the right upper corner. By clicking on the "Door" icon you can disconnect this wallet from FlatQube.
 
@@ -38,6 +38,6 @@ If the connection was successful, you will see the wallet address and the amount
 
 To connect your EVER Wallet on mobile, open the EVER Wallet app and go to the <mark style="color:green;">**Browser section**</mark> at the bottom of the screen. Go to [FlatQube.io ](https://flatqube.io)and click **Connect Wallet** and then confirm this action by clicking **Allow**.
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
 
 Well done!

@@ -15,7 +15,7 @@ First, [connect your wallet](../../getting-started/how-to-connect-a-wallet.md) b
 After that, we will select **WEVER** as the token we want to exchange in the **From** column.\
 Let's say we want **USDC** in exchange for **WEVER**. To do this, select the appropriate token in the **To** column.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Select an amount
 

@@ -9,7 +9,7 @@ You can also create a farming pool with a [custom pair](../../../pairs/how-to/cr
 
 To create a farming pool, go to the **Farming** section and select **Create farming pool** at the top right of the page.
 
-<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the page that opens, you need to fill in some fields:
 
@@ -20,7 +20,7 @@ In the page that opens, you need to fill in some fields:
    To do this, click **Add reward token** at the bottom left of the page, enter the root address of the token, the [vesting ](../../concepts/vesting.md)period and the [vesting ](../../concepts/vesting.md)ratio.
 4. Click **Create pool** and confirm the transaction in the Ever Wallet window that opens.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, you have created your own farming pool!&#x20;
 
@@ -59,7 +59,7 @@ Recall that for QUBEs, the reward distribution speed is [determined](../../conce
 3. Enter the desired distribution speed, and the date and time when you want the speed to be changed.
 4. Click Save changes and confirm the transaction in the Ever Wallet window that opens.
 
-<figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Close farming pool
 

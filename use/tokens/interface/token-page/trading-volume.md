@@ -5,4 +5,4 @@
 To switch the graph to **Volume**, click the corresponding button on the graph.\
 You can switch between chart display modes: by hours (**H**) and by days (**D**) for more convenient tracking of trading volume changes.
 
-![](<../../../../.gitbook/assets/image (185).png>)
+<figure><img src="../../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

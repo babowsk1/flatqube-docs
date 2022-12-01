@@ -20,4 +20,4 @@ If you are ready to start the burning process, click **Burn**, confirm the trans
 
 Upon completion, on the [token page](../interface/token-page.md), you will see that the **Supply** has changed:
 
-![](<../../../.gitbook/assets/image (31) (1).png>)
+![](<../../../.gitbook/assets/image (31) (1) (1).png>)

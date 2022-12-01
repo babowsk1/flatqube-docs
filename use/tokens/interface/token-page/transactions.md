@@ -12,12 +12,12 @@ Here you will see several columns with information:
 
 ![You can switch between the types of transactions that will be displayed](<../../../../.gitbook/assets/image (160).png>)
 
-**Total value** - the total amount of the transaction in dollar terms.\
-**Left and Right token** - the number of corresponding tokens involved in the transaction.\
-**Account** - address of the account that made this transaction.
+* **Total value** - the total amount of the transaction in dollar terms.
+* **Left and Right token** - the number of corresponding tokens involved in the transaction.
+* **Account** - address of the account that made this transaction.
 
-![](<../../../../.gitbook/assets/image (12) (1) (1).png>)
+<figure><img src="../../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 At the bottom of this block, you can switch between pages or go directly to a specific one.
 
-![](<../../../../.gitbook/assets/image (64).png>)
+![](<../../../../.gitbook/assets/image (64) (1).png>)

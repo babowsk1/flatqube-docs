@@ -15,4 +15,4 @@ The **Vesting block** displays information about the vesting applied in this poo
 * **Farming speed, sec** - the number of tokens distributed between all stakeholders every second.
 * **Start and End** - the moment of start and end of this epoch's reward distribution.
 
-<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
