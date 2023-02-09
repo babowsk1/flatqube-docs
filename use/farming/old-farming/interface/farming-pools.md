@@ -14,6 +14,6 @@ This page also displays various columns with farm pool information:
 * **Your reward** is the reward available for the [claim](../how-to/claim-reward.md).
 * **Entitled reward** is a reward that is in the [vesting](../../concepts/vesting.md) protocol.
 
-<figure><img src="../../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on one of these pools will take you to the [Farming pool page](farm-page-user/).

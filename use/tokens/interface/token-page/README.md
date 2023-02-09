@@ -10,7 +10,7 @@ The page of any token is divided into several blocks, let's consider each of the
 
 ### Upper block
 
-<figure><img src="../../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 
 The following functions are available in this block
 
@@ -30,10 +30,10 @@ Also on the right side of this block you can see information about:
 
 ### [Pairs block](pairs.md)
 
-<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 ### [Transactions block](transactions.md)
 
-<figure><img src="../../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 ###

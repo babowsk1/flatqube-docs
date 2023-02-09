@@ -2,7 +2,7 @@
 
 The **Pairs** section contains all pairs at FlatQube available for adding liquidity.
 
-<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (372).png" alt=""><figcaption></figcaption></figure>
 
 Here you have the following options:
 

@@ -3,7 +3,7 @@
 To get to this page, please click on the **Balance management** or **Increase farming speed**. \
 You can find it on the right side of the upper part of [DAO homepage](dao-page.md).
 
-<figure><img src="../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Click on <strong>Boost farming speed</strong> to go to the DAO Balance page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption><p>Click on <strong>Boost farming speed</strong> to go to the DAO Balance page</p></figcaption></figure>
 
 **DAO balance** block displays the general statistics:
 
@@ -25,4 +25,4 @@ You can find it on the right side of the upper part of [DAO homepage](dao-page.m
 * **Amount, veQUBE** - the amount of veQUBE received as a result of the deposit
 * **Date** - the date of the transaction or the time that has passed since its completion.
 
-<figure><img src="../../../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p><strong>DAO balance</strong> page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption><p><strong>DAO balance</strong> page</p></figcaption></figure>

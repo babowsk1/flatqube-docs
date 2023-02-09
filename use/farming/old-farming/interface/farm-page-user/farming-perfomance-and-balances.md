@@ -10,13 +10,13 @@ This block displays information about your funds locked in this farm pool:
 * **Share in farming pool** displays the percentage of your farming LPs from the total number locked in this farming pool. At the same time, it is a percentage of the total reward that you will receive at any given time.\
   Let's say the **farming speed** of pool is 0.1$ per second and your Share in the farming pool is 10%. In this case, every second, 10% of $0.1 is transferred to [vesting ](../../../concepts/vesting.md)and, accordingly, your **Entitled reward**, and your profitability is $0.01 per second or $36 per hour.
 
-<figure><img src="../../../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 **History balance** displays the price of the tokens that make up your LP at the time of the last [Withdraw ](../../how-to/withdraw-farm-tokens.md)or [Deposit ](../../how-to/deposit-farm-tokens.md)of LP tokens in dollars.
 
 **History LP breakdown** displays the exact number of tokens that were [locked ](../../how-to/deposit-farm-tokens.md)in the form of LP at the time of the last [Withdraw ](../../how-to/withdraw-farm-tokens.md)or [Deposit ](../../how-to/deposit-farm-tokens.md)of LP tokens.
 
-<figure><img src="../../../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 **Reward Balance** displays the amount of tokens earned at the moment that are [available for claim](../../how-to/claim-reward.md) or are still in [vesting ](../../../concepts/vesting.md)in USD equivalent.
 
@@ -26,7 +26,7 @@ This block displays information about your funds locked in this farm pool:
 
 **Vesting end date** displays the date and time when all tokens currently in [vesting ](../../../concepts/vesting.md)will be available for [Claim](../../how-to/claim-reward.md). Obviously, as long as you keep farming, this date will shift.
 
-<figure><img src="../../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
 ### Farming balance
 
@@ -36,4 +36,4 @@ This block contains the functionality of interaction with your LP tokens and rew
 
 <mark style="color:green;">**Withdraw**</mark> allows you to [claim ](../../how-to/claim-reward.md)the earned tokens available for this (Claim Reward), as well as [withdraw your LP tokens](../../how-to/withdraw-farm-tokens.md) from this farming pool (Withdraw LP tokens).
 
-<figure><img src="../../../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>

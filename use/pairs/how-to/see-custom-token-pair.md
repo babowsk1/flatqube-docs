@@ -16,4 +16,4 @@ There are several ways to get to the custom [pair page](../interface/pair-page/)
 1. Copy the <mark style="color:green;">**pool address**</mark> of this pair at the bottom of the [Pool page](../../pools/interface/pool-page/).
 2. Paste the copied address into the address bar, while in the [Pairs section](../), in order to go to the [pair page](../interface/pair-page/) of this pool.
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>

@@ -9,7 +9,7 @@ On the right side of this block, you can sort transactions by <mark style="color
 **Adds** - adding liquidity to the pool of this pair\
 **Removes** - removing liquidity from the pool of this pair
 
-![](<../../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../../.gitbook/assets/image (12).png>)
 
 Below you can see several columns with transaction information:
 
@@ -20,4 +20,4 @@ Below you can see several columns with transaction information:
 
 By clicking on one of the transactions, you will open its page in the blockchain explorer.
 
-<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>

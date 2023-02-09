@@ -6,7 +6,7 @@ description: About the main page of the Tokens section.
 
 By going to the Tokens section, you will see a list of tokens used on FlatQube.
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 Here you have the following options:
 

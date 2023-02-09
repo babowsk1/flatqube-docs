@@ -5,7 +5,7 @@
 3. Click **Create pool** and pay the pool creation fee (10 EVER) in the opened EVER Wallet window and wait for the transaction to complete.
 4. Click **Connect pool** and confirm transaction.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
 After the completion of the transaction, the new pool and the corresponding pair of this pool will begin to exist in the network in the form of contracts and you can add liquidity to it.\
 Now you can [find the pair you created in the list of pairs](see-custom-token-pair.md), and after [adding it to your favorites](../interface/pair-page/add-to-favorites.md), it will also be displayed on the main page of the [Pools section](../../pools/).

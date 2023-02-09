@@ -17,7 +17,7 @@ Go to the Farming section and click Create farming pool in the upper right corne
 
 Click Create farming pool, confirm the transaction in your EVER Wallet and wait for the pool creation process to complete.
 
-<figure><img src="../../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ## How to go to the page of the created Farming pool?
 
@@ -26,7 +26,7 @@ Click Create farming pool, confirm the transaction in your EVER Wallet and wait 
 3. Find your pool in the list and go to its page by clicking on it.\
    Here you can immediately add it to your [favorites ](../../../pairs/interface/pair-page/add-to-favorites.md)so that it appears on the main Farming section page.
 
-<figure><img src="../../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
 ## Farming pool management
 
@@ -38,13 +38,13 @@ The administrator of the farming pool can at any time deposit tokens into the po
 
 The administrator has to monitor the balance of the farming pool. If there are not enough tokens on the balance to pay all the rewards, the pool will be automatically marked with a danger icon in the general list.
 
-<figure><img src="../../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
 ### Changing the farming speed
 
 The administrator can increase or decrease the farming speed. To do that, one needs to indicate the start of a new farming period and a new farming speed.
 
-<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
 ### Closing the pool
 
@@ -52,10 +52,10 @@ The administrator can at any time specify the date when the farming pool closes.
 
 Attention! You can only set the closing date once. After establishing an end date, you can neither change the date nor add another farming period.
 
-<figure><img src="../../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
 ### Withdrawal of unclaimed tokens
 
 If the administrator has deposited more reward tokens than necessary, these tokens can be withdrawn. To do so, you need to set the end date for farming, and then wait for the end of vesting + lockdown period (30 days).
 
-<figure><img src="../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>

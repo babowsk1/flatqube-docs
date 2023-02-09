@@ -9,7 +9,7 @@ You can also create a farming pool with a [custom pair](../../../pairs/how-to/cr
 
 To create a farming pool, go to the **Farming** section and select **Create farming pool** at the top right of the page.
 
-<figure><img src="../../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 In the page that opens, you need to fill in some fields:
 
@@ -20,7 +20,7 @@ In the page that opens, you need to fill in some fields:
    To do this, click **Add reward token** at the bottom left of the page, enter the root address of the token, the [vesting ](../../concepts/vesting.md)period and the [vesting ](../../concepts/vesting.md)ratio.
 4. Click **Create pool** and confirm the transaction in the Ever Wallet window that opens.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 Congratulations, you have created your own farming pool!&#x20;
 
@@ -46,7 +46,7 @@ Recall that QUBE rewards [are added](../../concepts/reward-distribution.md) to t
 3. Confirm the transaction in the Ever Wallet window that opens and wait for it to close.
 4. Then you will see this transaction in the transaction list at the bottom of the pool page and its Reward balance will change.
 
-<figure><img src="../../../../.gitbook/assets/image (38) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 ### Change farming speed
 
@@ -59,7 +59,7 @@ Recall that for QUBEs, the reward distribution speed is [determined](../../conce
 3. Enter the desired distribution speed, and the date and time when you want the speed to be changed.
 4. Click Save changes and confirm the transaction in the Ever Wallet window that opens.
 
-<figure><img src="../../../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
 ### Close farming pool
 
@@ -72,6 +72,6 @@ You have the ability to manually stop the farming in your pool. \
 3. Click on the Danger zone at the top of the window that opens
 4. Enter the date and time when the farming ends. At this point, farming will stop and you can collect the remaining Reward tokens.
 
-<figure><img src="../../../../.gitbook/assets/image (43) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 ****

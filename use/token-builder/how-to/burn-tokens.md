@@ -3,7 +3,7 @@
 If you want to reduce token supply, there is an interface for burning them.\
 In order to burn part of created token supply, go to the [token page](../interface/token-page.md) in the [Builder section](../) and click on <mark style="color:green;">**Burn**</mark> in the right block of the page.
 
-![](<../../../.gitbook/assets/image (202).png>)
+![](<../../../.gitbook/assets/image (18).png>)
 
 In the interface window that opens, fill in the appropriate fields:
 
@@ -16,8 +16,8 @@ The bottom part of the window displays the number of tokens stored at the specif
 
 If you are ready to start the burning process, click **Burn**, confirm the transaction in your EVER Wallet and wait for the process to finish.
 
-![](<../../../.gitbook/assets/image (157).png>)
+![](<../../../.gitbook/assets/image (158).png>)
 
 Upon completion, on the [token page](../interface/token-page.md), you will see that the **Supply** has changed:
 
-![](<../../../.gitbook/assets/image (31) (1) (1).png>)
+![](<../../../.gitbook/assets/image (287).png>)

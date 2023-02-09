@@ -8,10 +8,10 @@ Also, on the right side of the screen there are buttons to go to the section for
 
 In addition to the name of the pool, it displays the number of LP tokens that make up your [locked liquidity](../how-to/add-liquidity.md), as well as the total amount of tokens you [locked](../how-to/create-new-position.md) as the left and right sides of the pair.
 
-![](<../../../.gitbook/assets/image (41) (1) (1).png>)
+![](<../../../.gitbook/assets/image (231).png>)
 
 ### No favorites pools?
 
 You can [add a pool to your favorites](../../pairs/interface/pair-page/add-to-favorites.md) in the [Pairs section](../../pairs/).
 
-![](<../../../.gitbook/assets/image (34) (1) (1).png>)
+![](<../../../.gitbook/assets/image (43).png>)

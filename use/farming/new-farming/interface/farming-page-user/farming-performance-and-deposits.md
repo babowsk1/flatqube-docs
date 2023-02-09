@@ -13,13 +13,13 @@ Balance displays:
 * Share in the farming pool reflects the percentage of your farming LPs from the total number locked in this farming pool. \
   At the same time, it is a percentage of the total reward that you will receive at any given time.
 
-<figure><img src="../../../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 * **Available reward** - the amount of earned reward, which you can withdraw at the moment.
 * **Locked reward** - the amount of reward locked in the [vesting](../../../concepts/vesting.md). \
   Part of this reward is permanently unlocked and goes to Available reward.
 
-<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 The right side contains APR information and a balance management window:
 
@@ -32,7 +32,7 @@ Clicking on **Deposit LP** tokens will open a window for [depositing ](../../how
 
 Clicking on **Withdraw LP token** will open a window for [withdrawing ](../../how-to/deposit-withdraw-farm-tokens.md)funds from the pool.
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 ## Deposits
 
@@ -45,4 +45,4 @@ Below is the My deposits block, which contains information about your deposits i
 * **Lock period**
 * **End lock date**
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>

@@ -12,4 +12,4 @@ This block displays the total statistics of the farming pool:
 Next to it is a graph reflecting the pool statistics. \
 Note that you can change the display options between TVL, Min. and Max. APR, and between days and hours.
 
-<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>

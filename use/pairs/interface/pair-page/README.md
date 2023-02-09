@@ -10,7 +10,7 @@ The page of any pair is divided into several blocks, let's consider each of them
 
 ### Upper block
 
-<figure><img src="../../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
 The following functions are available in this block:
 
@@ -29,8 +29,8 @@ Also on the <mark style="color:orange;">left side of this block</mark> you can s
 * [**Trading volume**](trading-volume.md) for the last 7 days
 * The amount of **fees** in dollars that have been [paid to liquidity providers](../../../pools/pool-economics.md) in the last 24 hours
 
-<figure><img src="../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 ### [**Transactions block**](transactions.md)
 
-<figure><img src="../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>

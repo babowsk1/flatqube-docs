@@ -20,4 +20,4 @@ Clicking on any of these addresses will take you to its blockchain explorer (Eve
 * **Farming token root** - the root contract asdress of LP farm token of this farming pool.
 * **Reward token root** - the reward token address.
 
-<figure><img src="../../../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>

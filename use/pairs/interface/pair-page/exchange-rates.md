@@ -5,4 +5,4 @@ There is a <mark style="color:orange;">graph</mark> on the pair's page, thanks t
 
 You can switch between chart display modes: <mark style="color:green;">by hours (H) and by days (D)</mark> for more convenient tracking of rate changes, as well as between <mark style="color:purple;">token ratio</mark> display modes (Left/Right or Right/Left).
 
-<figure><img src="../../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>

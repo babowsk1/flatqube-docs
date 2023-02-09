@@ -19,10 +19,10 @@ So, let's look at how to add your own candidate:
 1. Go to the DAO section and go down to the Candidates block.
 2. Click on Become a candidate at the top right of the block to open the add candidate interface.
 
-<figure><img src="../../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
 3\. Enter the address of the farming pool you want to add as a candidate in the corresponding field and click Become a candidate. Confirm the transaction in the Ever Wallet window that opens.
 
 4\. Congratulations! This candidate will be on the voting in the next epoch.
 
-<figure><img src="../../../.gitbook/assets/image (32) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>

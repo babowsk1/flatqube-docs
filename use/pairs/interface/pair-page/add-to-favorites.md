@@ -6,4 +6,4 @@ You can add a pair to your favorites in several ways:
 1. On the main page of the [Pairs section](../all-pairs.md), mark with a <mark style="color:green;">**Star**</mark> all the pairs you want to add to your favorites.
 2. On the page of a [certain pair](./), click on the <mark style="color:red;">**Star**</mark> to add it to your favorites.
 
-<figure><img src="../../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>

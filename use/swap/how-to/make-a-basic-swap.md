@@ -15,7 +15,7 @@ First, [connect your wallet](../../getting-started/how-to-connect-a-wallet.md) b
 After that, we will select **WEVER** as the token we want to exchange in the **From** column.\
 Let's say we want **USDC** in exchange for **WEVER**. To do this, select the appropriate token in the **To** column.
 
-<figure><img src="../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 **3.** Select an amount
 
@@ -26,7 +26,7 @@ Now we will enter the amount of **WEVER** that we want to exchange for **USDC** 
 Now, if you are ready to make a **Swap**, click on the appropriate button.\
 Check out the [details ](https://docs.flatqube.io/use/swap/interface)about the upcoming swap and if everything is fine, click Confirm.
 
-<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
 **5.** Confirm a transaction
 
@@ -38,9 +38,9 @@ Click **Send.**
 
 Enter the password for the wallet account and click **Confirm the transaction**, considering that it is at this stage that the **Swap** will begin (this action is irreversible).
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 As soon as the transaction is completed, you will see a notification about it on FlatQube.\
 You can go to the page of the Token contract, by clicking **Token Root Contract**, or to the transaction page by clicking **Transaction result.** Both of these actions will take you to pages of the Blockchain Explorer ([Tonscan.io](https://tonscan.io)).
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](<../../../.gitbook/assets/image (257).png>)

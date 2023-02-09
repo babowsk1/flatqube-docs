@@ -5,4 +5,4 @@ The **TLV** is initially displayed as a value on the <mark style="color:orange;"
 However, you can look at the TVL of the pair as a graph. To do this, select the <mark style="color:green;">**Liquidity**</mark> <mark style="color:green;">display mode</mark> in the upper right part of the chart.\
 Also, you can switch between chart display modes: <mark style="color:purple;">by hours (</mark><mark style="color:purple;">**H**</mark><mark style="color:purple;">) and by days (</mark><mark style="color:purple;">**D**</mark><mark style="color:purple;">)</mark> for more convenient tracking of TVL changes.
 
-<figure><img src="../../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
