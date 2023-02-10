@@ -83,7 +83,7 @@
       * [Claim reward](use/farming/new-farming/how-to/claim-reward.md)
       * [Deposit/Withdraw farm tokens](use/farming/new-farming/how-to/deposit-withdraw-farm-tokens.md)
       * [Get a boost](use/dao/how-to/get-a-boost.md)
-      * [Create and manage your farming pool](use/farming/new-farming/interface/farm-page-administrator.md)
+      *
   * [Old farming](use/farming/old-farming/README.md)
     * [Interface](use/farming/old-farming/interface/README.md)
       * [Farming pools](use/farming/old-farming/interface/farming-pools.md)
@@ -115,13 +115,13 @@
   * [How to](use/dao/how-to/README.md)
     * [Lock tokens](use/dao/how-to/lock-tokens.md)
     * [Vote in Epoch](use/dao/how-to/vote-in-epoch.md)
-    * [Get a boost](use/dao/how-to/get-a-boost.md)
+    *
     * [Become a candidate](use/dao/how-to/become-a-candidate.md)
   * [Concept](use/dao/concept/README.md)
     * [DAO](use/dao/concept/dao.md)
     * [veQUBE](use/dao/concept/veqube.md)
     * [Epoch](use/dao/concept/epoch.md)
-    * [Boosted farming](use/farming/concepts/boosted-farming.md)
+    *
     * [FAQ](use/dao/concept/faq.md)
 * [Token builder](use/token-builder/README.md)
   * [Interface](use/token-builder/interface/README.md)

@@ -1,8 +1,8 @@
 # Farming page (user)
 
-In order to go to the Farming pool page, you need to click on one of the pools in the [Farming section.](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/\~/changes/xmVM5GwVuZjpiezKnapX/use/farming)​
+In order to go to the Farming pool page, you need to click on one of the pools in the [Farming section.](../../../)​
 
-The farming pool page displays detailed information about that pool.&#x20;
+The farming pool page displays detailed information about that pool.
 
 Let's take a closer look at each block of this page using the QUBE/WEVER farming pool as an example.​
 
