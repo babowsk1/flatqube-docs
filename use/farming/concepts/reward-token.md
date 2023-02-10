@@ -8,7 +8,7 @@ Accordingly, the larger the Pool Share, the more lucrative farming will be for t
 
 Liquidity pools in which providers deposit their tokens support the market. Thanks to them, token swaps and other operations are made possible. Liquidity providers earn a commission on all transactions (usually a .3% commission on the total transaction price, but the exact commission depends on the pool). Commissions are added to pools in real-time and distributed to providers proportionally to their Pool Shares. They can be claimed at any time and withdrawn along with the original liquidity provided.
 
-In order to stimulate the provision of liquidity on FlatQube, a number of farming programs have been launched. Liquidity providers can deposit their LP tokens in the Farming Pool that corresponds to their token pair and receive additional rewards every second already as a farmer. The remuneration is distributed among all Farming Pool members in proportion to their share.
+In order to stimulate the provision of liquidity on FlatQube, a number of farming programs have been launched. Liquidity providers can deposit their LP tokens in the Farming Pool that corresponds to their liquidity pool and receive additional rewards every second already as a farmer. The remuneration is distributed among all Farming Pool members in proportion to their share.
 
 Each Farming Pool on FlatQube has its own **** Farming Speed, which is the number of tokens that get constantly distributed to liquidity providers in proportion to their Pool Shares. Essentially, a Pool Share is the percentage you will receive of this number at any moment in time.
 

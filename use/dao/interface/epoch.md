@@ -15,7 +15,7 @@ This page displays statistics of the selected Epoch, information about your vote
 * **Min weight** - the minimum amount of votes required to get into the distribution of awards.
 * **Max weight** - the maximum amount of votes for one pool.
 
-Also in the center of this page you can see a graphical representation of the distribution of votes by currency pairs.
+Also in the center of this page you can see a graphical representation of the distribution of votes by currency pool.
 
 <figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption><p><strong>Total information</strong> block</p></figcaption></figure>
 

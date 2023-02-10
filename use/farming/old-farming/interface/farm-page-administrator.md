@@ -8,7 +8,7 @@ description: Anyone can create and manage their own farming pool.
 
 Go to the Farming section and click Create farming pool in the upper right corner and fill in the required fields:
 
-* Farm token root - the address of the token that users deposit to participate in farming. It can be the address of the LP token of the pair.
+* Farm token root - the address of the token that users deposit to participate in farming. It can be the address of the LP token of the liqidity pool.
 * Farm start - the date when farming starts.
 * Vesting ratio - percentage of the award that goes to vesting.
 * Vesting period - vesting period in seconds.

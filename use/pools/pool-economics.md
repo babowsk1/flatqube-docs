@@ -1,6 +1,11 @@
 # Pool economics
 
-Each FlatQube liquidity pool is a trading venue for a [pair ](../tokens/interface/token-page/pairs.md)of TIP-3.1 tokens.\
+Each FlatQube liquidity pool is a trading venue for a pairof TIP-3.1 tokens.
+
+Besides the typical two token pools, FlatQube also provides N-pools. They can include three or even four tokens, allowing you to collect all the liquidity into one pool. This makes the choice of a pool for investment easier, and, at the same time, reduces the slippage rate.
+
+For the development of N-pools, we focused on Curve’s 3Pool approach. It served as a good foundation upon which we built our own solution. Currently, we are preparing the information explaining the complex formulas behind it. In case you want to learn more about this topic, [Curve documentation](https://classic.curve.fi/files/stableswap-paper.pdf) is a good place to start.
+
 When a [pool contract is created](../pairs/how-to/create-new-pair.md), its balances for each token are 0; in order for the pool to begin facilitating trades, someone must seed it with an initial deposit for each token.\
 This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal _value_ of both tokens into the pool. To understand why, consider a case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be exploited by an external party.
 

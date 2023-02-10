@@ -7,7 +7,7 @@ This block displays the current statistics of this farming pool.
 On the left you can see the following values:
 
 * **TVL** (Tota value locked) - the total amount of tokens [locked](../../how-to/deposit-farm-tokens.md) in this farming pool in dollar terms.
-* **LP token and LP breakdown** express the TVL in terms of LP tokens and tokens of the pair, respectively.
+* **LP token and LP breakdown** express the TVL in terms of LP tokens and tokens of the pool, respectively.
 * **APR** - the annual return of the pool at the moment.
 * **Remain reward balance** - the number of tokens available to reward farmers.
 * **Farming speed, sec** - the reward that is distributed to all farmers of this pool every**.**

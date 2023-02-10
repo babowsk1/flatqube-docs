@@ -34,13 +34,13 @@ The rewards are given for participation in farming. veQUBEs do not bring any inc
 
 #### Will the boost be offered only in the pool l voted for or in all of them?
 
-The boost will be in all pairs that received from 1 to 35% of the votes.
+The boost will be in all pool that received from 1 to 35% of the votes.
 
 #### How do I vote for the distribution of QUBEs by farming pools?
 
 1. you need to lock the QUBEs [here](https://app.flatqube.io/dao/balance)
 2. scroll to the Your vote section [here](https://app.flatqube.io/dao/epochs/1)
-3. in the Your vote section, select a pair, specify the number of veQUBEs for voting and click Vote.
+3. in the Your vote section, select a pool, specify the number of veQUBEs for voting and click Vote.
 
 #### Can I vote again if I later lock some more QUBEs?
 

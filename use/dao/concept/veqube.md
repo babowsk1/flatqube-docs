@@ -45,7 +45,7 @@ Where:
 <figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 * **veBd** – ve-boosted balance.
-* **Gd** – total gauge deposits (TVL of a specific pair in the gauge).
+* **Gd** – total gauge deposits (TVL of a specific pool in the gauge).
 * **veQUBE** – number of veQUBE that the user has.
 * **TveQUBE** – total circulating supply of veQUBE.
 

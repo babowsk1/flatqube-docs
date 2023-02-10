@@ -26,7 +26,7 @@ Below you can see the **Epochs** block. It displays the following information:
 * **Min weight** - the minimum number of votes required to get into the distribution of awards.
 * **Max weight** - the maximum number of votes for one pool.
 
-In the center of the block, you can see a graphical representation of the distribution of votes by currency pairs.
+In the center of the block, you can see a graphical representation of the distribution of votes by currency pool.
 
 <figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p><strong>Epoch</strong> block</p></figcaption></figure>
 

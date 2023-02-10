@@ -10,8 +10,8 @@ In order to start farming, you need to select one of the pools from the list in 
 
 ### Get LP tokens
 
-After you have decided on the choice of the pool, you need to get LP tokens of the corresponding pair.\
-To do this, you need to add liquidity to the pool of this pair.
+After you have decided on the choice of the pool, you need to get LP tokens of the corresponding pool.\
+To do this, you need to add liquidity to this pool.
 
 {% content-ref url="../../../pools/how-to/add-liquidity.md" %}
 [add-liquidity.md](../../../pools/how-to/add-liquidity.md)
