@@ -1,17 +1,20 @@
-# Pools Overview
+# All pools
 
-By going to the Pools section, you will find yourself on the **Pools overview** page.\
-All your favorite pools are displayed here.\
-Clicking on <mark style="color:orange;">one of these pools</mark> will take you to the [**Pool page**](pool-page/).
+By navigating to the **Pools** section, you will find yourself on this page.
 
-Also, on the right side of the screen there are buttons to go to the section for <mark style="color:green;">**creating a new position and withdrawing liquidity**</mark>.
+Let's take a closer look at it.
 
-In addition to the name of the pool, it displays the number of LP tokens that make up your [locked liquidity](../how-to/add-liquidity.md), as well as the total amount of tokens you [locked](../how-to/create-new-position.md) as the left and right sides of the pair.
+In the upper part you will see **Favorite Pools** section.&#x20;
 
-![](<../../../.gitbook/assets/image (231).png>)
+To the right of it there are two buttons: **New position** and **Remove liquidity**, which allow you to [lock or unlock](../how-to/add-liquidity.md) tokens in the pools of your interest.
 
-### No favorites pools?
+Lower there is the **All pools** section. It includes the whitelisted pools or those added by yourself. (link to How to - Create/Add custom pair).
 
-You can [add a pool to your favorites](../../pairs/interface/pair-page/add-to-favorites.md) in the [Pairs section](../../pairs/).
+The information displayed:
 
-![](<../../../.gitbook/assets/image (43).png>)
+* **The number and the name of the pool** - the name is a set of tokens that make up this pool.
+* **TVL** - it is the dollar equivalent of all tokens locked in the respective pool.
+* **Volume 24H/7D** - the trading volume of the pool for the last day and a week, respectively.
+* **Your share** - your share in this pool. It reflects the percentage of tokens locked by you out of the total number of tokens in this pool.
+
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>

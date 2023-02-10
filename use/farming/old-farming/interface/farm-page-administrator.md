@@ -24,7 +24,7 @@ Click Create farming pool, confirm the transaction in your EVER Wallet and wait 
 1. Go to the [farming section](../../).
 2. In the upper-right part of the **All pools** block, open the filter menu by clicking on the appropriate button and turn on the **With low balance** filter.
 3. Find your pool in the list and go to its page by clicking on it.\
-   Here you can immediately add it to your [favorites ](../../../pairs/interface/pair-page/add-to-favorites.md)so that it appears on the main Farming section page.
+   Here you can immediately add it to your [favorites ](broken-reference)so that it appears on the main Farming section page.
 
 <figure><img src="../../../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 

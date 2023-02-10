@@ -24,7 +24,7 @@ In this case, we can start yield farming.
 
 1. Go to the [page of the desired Farming pool](../interface/farm-page-user/).
 2. In the Farming balance block, enter the amount of LP tokens that you want to lock in farming.
-3. Click **Deposit** and confirm transaction in EVER Wallet.
+3. Click **Deposit** and confirm the transaction in EVER Wallet.
 4. After the transaction is completed, the pool page will change and you will see a new block - [My farming performance](../interface/farm-page-user/#my-farming-performance-and-farming-balances).
 
 <figure><img src="../../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>

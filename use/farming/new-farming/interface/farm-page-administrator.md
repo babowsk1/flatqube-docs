@@ -4,8 +4,8 @@ This page will show you how to create and manage your own farming pool.
 
 ## Create farming pool
 
-Thanks to the FlatQube functionality, you can create your own pools: choose a farming token, a reward, its distribution rate, etc. \
-You can also create a farming pool with a [custom pair](../../../pairs/how-to/create-new-pair.md).
+Thanks to the FlatQube functionality, you can create your own pools: choose a farming token, a reward, its distribution rate, etc.\
+You can also create a farming pool with a [custom liquidity pool](broken-reference).
 
 To create a farming pool, go to the **Farming** section and select **Create farming pool** at the top right of the page.
 
@@ -14,28 +14,28 @@ To create a farming pool, go to the **Farming** section and select **Create farm
 In the page that opens, you need to fill in some fields:
 
 1. First, copy the root address of the token that will be used for farming (LP token) and paste this address into the **Farm token root** line.
-2. If necessary, check the box next to **Active** [**token boost**](../../concepts/boosted-farming.md). \
+2. If necessary, check the box next to **Active** [**token boost**](../../concepts/boosted-farming.md).\
    Enter the maximum token lock period as well as the maximum boost ratio.
-3. The standard reward token is QUBE, but you can add any other token as a reward. \
+3. The standard reward token is QUBE, but you can add any other token as a reward.\
    To do this, click **Add reward token** at the bottom left of the page, enter the root address of the token, the [vesting ](../../concepts/vesting.md)period and the [vesting ](../../concepts/vesting.md)ratio.
 4. Click **Create pool** and confirm the transaction in the Ever Wallet window that opens.
 
 <figure><img src="../../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-Congratulations, you have created your own farming pool!&#x20;
+Congratulations, you have created your own farming pool!
 
 ## Find my farming pool
 
-After you create a farming pool, it will automatically be added to your favorites list. \
-However, if you go to the main page of the Farming section you probably won't find it there.&#x20;
+After you create a farming pool, it will automatically be added to your favorites list.\
+However, if you go to the main page of the Farming section you probably won't find it there.
 
-The thing is that by default, pools with zero balance are not displayed in the general list.&#x20;
+The thing is that by default, pools with zero balance are not displayed in the general list.
 
 To find your pool, click the "Filters" button in the upper right corner and select With low balance. Then you will see your pool in the general list or in the list of favorites.
 
 ## Farming pool Management
 
-### Deposit reward tokens&#x20;
+### Deposit reward tokens
 
 If you add any token other than QUBE as a reward for the farming pool, then, you have the opportunity to manually replenish the reward balance with this token.
 
@@ -63,7 +63,7 @@ Recall that for QUBEs, the reward distribution speed is [determined](../../conce
 
 ### Close farming pool
 
-You have the ability to manually stop the farming in your pool. \
+You have the ability to manually stop the farming in your pool.\
 \
 **Note that this action is irreversible!**
 
@@ -74,4 +74,4 @@ You have the ability to manually stop the farming in your pool. \
 
 <figure><img src="../../../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
-****
+***

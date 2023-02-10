@@ -5,10 +5,10 @@ If you previously [added liquidity](../../old-farming/how-to/deposit-farm-tokens
 
 This page also displays various columns with farm pool information:
 
-* **Farm pool** - those tokens that make up a pair for this farm pool. The [LP tokens](../../../pools/how-to/add-liquidity.md) of this particular pair must be locked in the Farming pool in order to start receiving a reward.
+* **Farm pool** - the [LP tokens](../../../pools/how-to/add-liquidity.md) of this particular liquidity pool must be locked in the Farming pool in order to start receiving a reward.
 * **Reward** is the tokens that are awarded as a [reward for farming](../../concepts/reward-token.md) in this pool.
 * **TVL** is the total dollar amount of tokens locked in this farming pool.
-*   **APR, min./APR, max.** is a measure of the annual yield of that pool. \
+*   **APR, min./APR, max.** is a measure of the annual yield of that pool.\
     **Min. APR** is the minimum profit that a user receives for locking their LP tokens for the shortest period possible.
 
     **Max. APR** is the profitability for the maximum boost coefficient for LP tokens and the boost for locking QUBE tokens.

@@ -6,7 +6,7 @@ Besides the typical two token pools, FlatQube also provides N-pools. They can in
 
 For the development of N-pools, we focused on Curve’s 3Pool approach. It served as a good foundation upon which we built our own solution. Currently, we are preparing the information explaining the complex formulas behind it. In case you want to learn more about this topic, [Curve documentation](https://classic.curve.fi/files/stableswap-paper.pdf) is a good place to start.
 
-When a [pool contract is created](../pairs/how-to/create-new-pair.md), its balances for each token are 0; in order for the pool to begin facilitating trades, someone must seed it with an initial deposit for each token.\
+When a [pool contract is created](broken-reference), its balances for each token are 0; in order for the pool to begin facilitating trades, someone must seed it with an initial deposit for each token.\
 This first liquidity provider is the one who sets the initial price of the pool. They are incentivized to deposit an equal _value_ of both tokens into the pool. To understand why, consider a case where the first liquidity provider deposits tokens at a ratio different from the current market rate. This immediately creates a profitable arbitrage opportunity, which is likely to be exploited by an external party.
 
 When other liquidity providers add to an existing pool, they must deposit pair tokens proportional to the current price. If they don’t, the liquidity they added is at risk of being arbitraged as well. If they believe the current price is not correct, they may arbitrage it to the level they desire, and add liquidity at that price.
@@ -21,7 +21,7 @@ Whenever liquidity is [deposited ](how-to/add-liquidity.md)into a pool, unique t
 \
 Whenever a trade occurs, a 0.3% [liquidity provider fee](../swap/concepts/fees.md) is charged to the transaction sender. This fee is distributed _pro-rata_ to all LPs in the pool upon completion of the swap.
 
-To retrieve the underlying liquidity, plus any fees accrued, liquidity providers must ["burn" their liquidity tokens](how-to/withdraw-liquidity.md), effectively exchanging them for their portion of the liquidity pool, plus the proportional fee allocation.
+To retrieve the underlying liquidity, plus any fees accrued, liquidity providers must ["burn" their liquidity tokens](broken-reference), effectively exchanging them for their portion of the liquidity pool, plus the proportional fee allocation.
 
 As liquidity tokens are themselves tradable assets, liquidity providers may sell, transfer, or otherwise use their liquidity tokens in any way they see fit.
 

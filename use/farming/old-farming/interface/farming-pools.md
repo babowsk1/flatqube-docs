@@ -5,7 +5,7 @@ If you previously [added liquidity](../how-to/deposit-farm-tokens.md) to one of 
 
 This page also displays various columns with farm pool information:
 
-* **Farm pool** - those tokens that make up a pair for this farm pool. The [LP tokens](../../../pools/how-to/add-liquidity.md) of this particular pair must be locked in the Farming pool in order to start receiving a reward.
+* **Farm pool** - the [LP tokens](../../../pools/how-to/add-liquidity.md) of this particular pair must be locked in the Farming pool in order to start receiving a reward.
 * **Reward** is the tokens that are awarded as a [reward for farming](../../concepts/reward-token.md) in this pool.
 * **TVL** is the total dollar amount of tokens locked in this farming pool.
 * **APR** is the annual profit that this pool brings.

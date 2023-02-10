@@ -16,14 +16,14 @@ The following functions are available in this block
 
 * [**Token price**](price.md) chart
 * [**Volume** ](trading-volume.md)chart
-* [**TVL** ](../../../pairs/interface/pair-page/tvl.md)chart
+* [**TVL** ](broken-reference)chart
 * [**Add liquidity**](../../../pools/how-to/add-liquidity.md) - click to go to the page for adding liquidity paired with this token
 * [**Trade** ](../../../swap/)- swap this token
 * [**Open in explorer**](open-in-explorer.md) - click on the arrow in the upper right corner of the top block to go to the token page in the explorer
 
 Also on the right side of this block you can see information about:
 
-* [**TVL** ](tvl.md)
+* [**TVL**](tvl.md)
 * [**Trading volume**](trading-volume.md) for the last 24 hours
 * [**Trading volume**](trading-volume.md) for the last 7 days
 * **Number of transactions** in the last 24 hours

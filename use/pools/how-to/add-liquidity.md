@@ -1,59 +1,51 @@
-# Add liquidity
+# Add liquidity (Get LP tokens) / Withdraw liquidity
 
-Please note that this section assumes that you have already provided liquidity to the required pool. Otherwise, the process will be different - go to the [**new position page**](create-new-position.md).
+## Add liquidity
 
-## Simple liquidity provision
+There are several ways to get to the liquidity deposit interface of a specific pool:
 
-To add tokens to an existing position, go to the [Pools section](../), then go to the [page of the desired pool](../interface/pool-page/) by clicking on the appropriate pair and clicking <mark style="color:red;">**Add Liquidity**</mark>.
+1. Go to the `Pools`section and click on the `New position` in the upper right part of the page.
+2. Go to the `Pools` section and then to the page of the pool you are interested in. Then click `Add liquidity` on the upper right side of the page.
 
-After that, you will be taken to the page for adding liquidity to the pool.
+Now, let's go directly to the process of adding liquidity:
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+Learn more about this in the fourth step of the following instructions.
 
-On this page, you can add liquidty to the pool of this pair.\
-\
-Recall that you do not need to have both tokens in equal proportion on your balance, since FlatQube has an automatic exchange function that allows you to provide [**one-sided liquidity**](add-liquidity.md#one-sided-liquidity-provision).
+1. Go to the interface for adding liquidity using one of the methods described above.
+2. Select the tokens that form the pair of this pool. \
+   Note that you can also use tokens not included in the whitelist, thus creating a custom liquidity pool.
+3. If you are adding liquidity to this pool for the first time, click on `Connect Pool` and confirm the transaction in the Ever Wallet window that opens.
 
-#### Adding liquidity (using the WEVER/USDC pair as an example)
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
-To get started, enter the amount of tokens you wish to **add to the pool**.\
-You can enter the amount of either the left or right tokens, and the required amount of the second token will be calculated automatically at the current FlatQube rate.
+4. If you are interested in unilateral provision of liquidity, click on `Enable auto-exchange` and enter in the top line the amount of tokens that you want to deposit into the pool. In this case, the equivalent of half of these tokens will be automatically exchanged for the second token of the pair during the deposit process. \
+   Otherwise, ignore the auto-exchange and enter the amount of the first and second tokens that you want to deposit into the pool. The equivalent of half of the second token of the pair will be added automatically.
+5. Click `Deposit Token 1` and confirm the transaction in the Ever Wallet window that opens.\
+   After the transaction is completed, if you have not used auto-exchange, do the same action for the second token.
+6. Wait for the token deposit transaction to complete and click Supply. Confirm the transaction in the Ever Wallet window that opens and wait for it to complete.
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+Congratulations! You have successfully deposited your tokens into the pool. In exchange for the provided liquidity, you will receive LP tokens, which you can then use in the corresponding [farming pool](../../farming/new-farming/interface/farming-pools.md).
+{% endhint %}
 
-After entering the amount, you will see how much your [**Pool share**](../pool-economics.md) will change, as well as the ratio of the price of tokens.
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-Now you need to deposit tokens. Click Deposit and confirm the transaction in EVER Wallet.
+## Withdraw liquidity
 
-<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+There are several ways to get to the interface for withdrawing liquidity from a specific pool:
 
-After a successful deposit of the left token, do the same for the right one:
+1. Go to the `Pools` section and click on `Remove liquidity` in the upper right part of the page.
+2. Go to the `Pools` section and then to the page (link to the Pool page) of the pool you are interested in. Then click `Remove liquidity` on the upper right side of the page.
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+So, let's go directly to the process of withdrawing liquidity:
 
-And here we are almost at the finish line - now it is necessary to produce **Supply**.\
-This operation will also require confirmation.
+1. Select the tokens that form a pair of the pool you are interested in.
+2. Enter the amount of LP tokens you want to burn and convert them into “regular” tokens. You will see the number of tokens that will be returned to your balance after the process is completed. Your updated share in the pool and the number of tokens that will remain locked will be displayed at the bottom.
+3. Click `Confirm` and confirm the transaction in the Ever Wallet window that opens.
+4. After confirming the transaction, just wait for its completion. Once it is completed, you will see the Transaction submitted window.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+Congratulations! The tokens have been added to your balance.
+{% endhint %}
 
-After you successfully complete the Supply process, you will see a **Supply receipt window.**
-
-Here you will see the current **Pool share** and the percentage by which it was increased by this transaction, as well as the number of received [**LP tokens.**](calculate-the-amount-of-lp-tokens.md)
-
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
-
-## One-sided liquidity provision
-
-FlatQube has an automatic exchange feature that also allows you to provide one-way liquidity.
-
-In order to provide liquidity using only one of the tokens, enable **Auto Exchange** and enter the amount of one of the tokens.
-
-The next steps you need to take are identical to those in the [**first example**](add-liquidity.md#adding-liquidity-on-the-example-of-the-wever-usdc-pair), the only difference being that after depositing the token, you will immediately be taken to **Supply**.
-
-<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
-
-After you successfully complete the Supply process, you will see a **Supply receipt window.**
-
-Here you will see the current **Pool share** and the percentage by which it was increased by this transaction, as well as the number of received [**LP tokens.**](calculate-the-amount-of-lp-tokens.md)
-
-<figure><img src="../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
