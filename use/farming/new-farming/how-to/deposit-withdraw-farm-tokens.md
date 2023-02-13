@@ -10,7 +10,7 @@ In order to take part in farming, you need to invest any number of LP tokens in 
 4. Enter the amount of LP tokens that you want to block in the farming pool, as well as the lock period. The lock period will affect the [farming boost](../../concepts/boosted-farming.md).
 5. Confirm the transaction in the Ever Wallet window that opens and wait for it to complete
 
-<figure><img src="../../../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Withdraw LP tokens
 
@@ -21,4 +21,4 @@ In order to withdraw LP tokens from the farming pool do the following:
 3. Enter the number of LP tokens you want to withdraw. If you want you can withdraw them together with the reward. To do this, put a check mark next to the corresponding line.
 4. Click Withdraw and confirm the transaction in the opened Ever Wallet window.
 
-<figure><img src="../../../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>

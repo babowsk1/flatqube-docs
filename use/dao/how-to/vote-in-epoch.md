@@ -1,6 +1,6 @@
 # Vote in Epoch
 
-In order to participate in the voting of the current Epoch, first of all, you need to get veQUBEs by [locking QUBEs](lock-tokens.md).&#x20;
+In order to participate in the voting of the current Epoch, first of all, you need to get veQUBEs by [locking QUBEs](lock-tokens.md).
 
 Once you have received the veQUBEs, you can use them for voting:
 
@@ -13,4 +13,4 @@ Once you have received the veQUBEs, you can use them for voting:
 7. Upon completion of the transaction, you will see the information about your vote in the\
    Your vote of the[ corresponding Epoch](../interface/epoch.md).
 
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>

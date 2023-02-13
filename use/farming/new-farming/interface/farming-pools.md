@@ -20,4 +20,4 @@ This page also displays various columns with farm pool information:
 * **Entitled reward** is a reward that is in the [vesting](../../concepts/vesting.md) protocol.
 * Notice the **Filters** button at the top right of the page.
 
-<figure><img src="../../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>

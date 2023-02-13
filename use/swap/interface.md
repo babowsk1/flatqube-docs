@@ -14,7 +14,7 @@ Here you can set the [**slippage tolerance**](how-to/configure-slippage-toleranc
 **From** - is the amount of tokens that will be converted into a certain amount of other tokens - **To.**\
 Click on **Max** to select all exchangeable tokens.
 
-<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 After selecting a certain amount of tokens in **From** or **To**, a few more informative lines will appear:
 
@@ -25,5 +25,4 @@ After selecting a certain amount of tokens in **From** or **To**, a few more inf
 * **Optimal price** is the ratio of the price of the tokens you are going to exchange.\
   By clicking on the 🔁, you can choose the ratio of which token to another will be displayed.
 
-<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>

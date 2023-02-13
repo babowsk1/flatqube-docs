@@ -18,7 +18,7 @@ The left part of the section displays various information about the pool:
 On the right, there is a graph showing various pool statistics.\
 You can switch between graph display modes: token exchange price, transaction volume and liquidity.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
 ## Your balance
 
@@ -37,7 +37,7 @@ The **Total balance** contains general information about the balance, namely:
 
 In the right part of the section there is the button for depositing tokens into this pool. Click the appropriate button to go to the page for adding liquidity.
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
 ## **Farming pools**
 
@@ -60,7 +60,7 @@ The information displayed:
 * **Your total reward** - the number of reward tokens that are in Vesting **(link to Vesting)** or available for withdrawal.
 * **Entitled reward** - the number of reward tokens that are in the Vesting. **(link to Vesting)**
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 ## **Transactions**
 
@@ -78,4 +78,4 @@ The information about all transactions related to a pool is displayed here, name
 
 Please note that you can switch the type of transactions displayed in the upper left part of the section.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>

@@ -20,4 +20,4 @@ The following actions are available in the <mark style="color:orange;">**Actions
 
 \*\*\*\*[**Transfer ownership**](../how-to/transfer-ownership.md) - Set a new token owner
 
-![](<../../../.gitbook/assets/image (188).png>)
+![](<../../../.gitbook/assets/image (233).png>)

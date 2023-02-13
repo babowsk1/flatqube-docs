@@ -2,9 +2,9 @@
 
 To go to this page, click on **See epoch details** on the right side of the [DAO homepage](dao-page.md).
 
-<figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption><p>Click on <strong>Epoch details</strong> to go to the Epoch page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (269).png" alt=""><figcaption><p>Click on <strong>Epoch details</strong> to go to the Epoch page</p></figcaption></figure>
 
-This page displays statistics of the selected Epoch, information about your vote, and information about candidates:&#x20;
+This page displays statistics of the selected Epoch, information about your vote, and information about candidates:
 
 **Total information** displays the statistics of the selected epoch:
 
@@ -17,7 +17,7 @@ This page displays statistics of the selected Epoch, information about your vote
 
 Also in the center of this page you can see a graphical representation of the distribution of votes by currency pool.
 
-<figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption><p><strong>Total information</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption><p><strong>Total information</strong> block</p></figcaption></figure>
 
 **Your vote** displays the statistics of your votes:
 
@@ -27,7 +27,7 @@ Also in the center of this page you can see a graphical representation of the di
 * **Normal distribution** - the current number of tokens used for distribution as a reward in the pool of the respective candidate.
 * **Normal farm speed** - the current farming speed in the pool of a candidate.
 
-<figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption><p><strong>Your vote</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (281).png" alt=""><figcaption><p><strong>Your vote</strong> block</p></figcaption></figure>
 
 **Epoch voting state** displays the statistics of candidates participating in the voting of the respective Epoch:
 
@@ -37,4 +37,4 @@ Also in the center of this page you can see a graphical representation of the di
 * **Normalal distribution** - the current number of tokens used for distribution as a reward in the pool of a candidate.
 * **Normal farm speed** - the current farming speed in the pool of a candidate.
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption><p><strong>Epoch voting state</strong> block</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption><p><strong>Epoch voting state</strong> block</p></figcaption></figure>

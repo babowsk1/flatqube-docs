@@ -10,9 +10,9 @@ To see a transaction on Everscan, all you need to do is go to the [DAO Balance p
 
 ## What’s it for?
 
-QUBE has several key utility tasks:&#x20;
+QUBE has several key utility tasks:
 
-1. Voting in the DAO&#x20;
+1. Voting in the DAO
 2. Boosting rewards in farming
 
 To participate in the utility and get the respective benefits, you need to wrap QUBE into veQUBE.
@@ -33,16 +33,16 @@ When the lock time ends, the investor gets their QUBE tokens returned to their w
 
 ## **Increasing your balance through veQUBE:**
 
-We have used the curve approach**:**
+We have used the curve approach\*\*:\*\*
 
-****<img src="../../../.gitbook/assets/image (159).png" alt="" data-size="original">****
+<img src="../../../.gitbook/assets/image (211).png" alt="" data-size="original">
 
 Where:
 
-* **Td** – total deposits.&#x20;
+* **Td** – total deposits.
 * **d** – deposit of the user.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 * **veBd** – ve-boosted balance.
 * **Gd** – total gauge deposits (TVL of a specific pool in the gauge).

@@ -17,4 +17,4 @@ The information displayed:
 * **Volume 24H/7D** - the trading volume of the pool for the last day and a week, respectively.
 * **Your share** - your share in this pool. It reflects the percentage of tokens locked by you out of the total number of tokens in this pool.
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ Learn more about this in the fourth step of the following instructions.
    Note that you can also use tokens not included in the whitelist, thus creating a custom liquidity pool.
 3. If you are adding liquidity to this pool for the first time, click on `Connect Pool` and confirm the transaction in the Ever Wallet window that opens.
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
 4. If you are interested in unilateral provision of liquidity, click on `Enable auto-exchange` and enter in the top line the amount of tokens that you want to deposit into the pool. In this case, the equivalent of half of these tokens will be automatically exchanged for the second token of the pair during the deposit process. \
    Otherwise, ignore the auto-exchange and enter the amount of the first and second tokens that you want to deposit into the pool. The equivalent of half of the second token of the pair will be added automatically.
@@ -28,7 +28,7 @@ Learn more about this in the fourth step of the following instructions.
 Congratulations! You have successfully deposited your tokens into the pool. In exchange for the provided liquidity, you will receive LP tokens, which you can then use in the corresponding [farming pool](../../farming/new-farming/interface/farming-pools.md).
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 ## Withdraw liquidity
 
@@ -48,4 +48,4 @@ So, let's go directly to the process of withdrawing liquidity:
 Congratulations! The tokens have been added to your balance.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>

@@ -6,4 +6,4 @@ Recall that farming pool administrators can change the speed, so the history of 
 **Farming speed** is the number of tokens that are distributed to all [farmers ](../../../../getting-started/roles.md#farmers)every second, in proportion to their [pool share](farming-perfomance-and-balances.md).\
 **Share** percentage means the percentage of the Reward that the farmer receives per second.
 
-<figure><img src="../../../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>

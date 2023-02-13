@@ -62,7 +62,7 @@
     * [How to](use/farming/new-farming/how-to/README.md)
       * [Claim reward](use/farming/new-farming/how-to/claim-reward.md)
       * [Deposit/Withdraw farm tokens](use/farming/new-farming/how-to/deposit-withdraw-farm-tokens.md)
-      * [Get a boost](use/dao/how-to/get-a-boost.md)
+      * [Get a boost](use/farming/new-farming/how-to/get-a-boost.md)
       *
   * [Old farming](use/farming/old-farming/README.md)
     * [Interface](use/farming/old-farming/interface/README.md)

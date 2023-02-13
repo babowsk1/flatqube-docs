@@ -20,7 +20,7 @@ Below you can find a mathematical explanation of Boosted Farming working princip
 
 Total deposits (TD) — is just the total amount of the user’s deposits in a specific gauge. We need this new entity when measuring locked deposits.
 
-![](<../../../.gitbook/assets/image (150).png>)
+![](<../../../.gitbook/assets/image (247).png>)
 
 Where:
 
@@ -30,7 +30,7 @@ Where:
 veQUBE — vote escrowed tokens, which can be obtained by locking QUBE.\
 The amount of veQUBE remains static for the whole duration of the lock.
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 Were:
 
@@ -38,7 +38,7 @@ Were:
 
 Ve-boosted deposit (veBD) – part of the virtual balance which is calculated from the user’s veQUBE amount:
 
-<figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 Where:
 
@@ -50,7 +50,7 @@ Where:
 
 LP-locked boosted deposit (BD) – part of the virtual balance which is calculated from the time the deposit is locked.
 
-![](<../../../.gitbook/assets/image (116).png>)
+![](<../../../.gitbook/assets/image (237).png>)
 
 Where:
 
@@ -61,15 +61,15 @@ Where:
 ## Summation of boosts from veQube and LP
 
 Ve-boosted deposit multiplier (veBD multiplier) – boost we get for veQUBE\
-![](<../../../.gitbook/assets/image (194).png>)
+![](<../../../.gitbook/assets/image (221).png>)
 
 LP-locked boosted deposit multiplier (lBD multiplier) – boost we get for locked LP
 
-<figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 Finally, virtual balance — the balance to which the user’s weight in the farming pool will be applied
 
-<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 ### **Conclusion**
 
@@ -77,19 +77,19 @@ Farming is credited to the user’s virtual balance, so anyone who does not have
 
 ## Examples
 
-User A $1 \
+User A $1\
 10 veQUBE;\
 \
-user B $1,000 \
+user B $1,000\
 10,000 veQUBE;\
 \
-EVER/USDT \
-TVL – $10,000; \
+EVER/USDT\
+TVL – $10,000;\
 veQUBE supply – 100,000
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 **User A pool weight:**
 

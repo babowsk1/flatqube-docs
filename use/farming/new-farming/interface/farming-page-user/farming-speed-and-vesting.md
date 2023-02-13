@@ -2,7 +2,7 @@
 
 These three blocks display information about the farming rate in that farming pool.
 
-The **Vesting block** displays information about the vesting applied in this pool:&#x20;
+The **Vesting block** displays information about the vesting applied in this pool:
 
 * **Reward token** - the token distributed as a reward
 * **Ratio vesting** - the percentage of the reward unlocked for the specified period
@@ -15,4 +15,4 @@ The **Vesting block** displays information about the vesting applied in this poo
 * **Farming speed, sec** - the number of tokens distributed between all stakeholders every second.
 * **Start and End** - the moment of start and end of this epoch's reward distribution.
 
-<figure><img src="../../../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>

@@ -10,10 +10,10 @@ So how do you manage slippage tolerance? It's very simple.
 
 Go to the Swap section and [connect your wallet](../../getting-started/how-to-connect-a-wallet.md) to FlatQube if you haven't already.
 
-![](<../../../.gitbook/assets/image (242).png>)
+![](<../../../.gitbook/assets/image (122).png>)
 
 In the upper-right part of the swap window (1), you can see a gear⚙️. This is a link to **Transaction Settings.**\
 Here you can set **slippage tolerance.** You can choose one of the offered percentages, or enter it manually (2).\
 When making a swap, you will see that the **Slippage tolerance** will change (3).
 
-<figure><img src="../../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
