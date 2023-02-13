@@ -46,7 +46,6 @@
   * [How to](use/pools/how-to/README.md)
     * [Connect DEX account](use/pools/how-to/connect-dex-account.md)
     * [Add liquidity (Get LP tokens) / Withdraw liquidity](use/pools/how-to/add-liquidity.md)
-    * [Create custom pool](use/pools/how-to/create-custom-pool.md)
     * [Calculate the amount of LP tokens](use/pools/how-to/calculate-the-amount-of-lp-tokens.md)
   * [Pool economics](use/pools/pool-economics.md)
 * [Farming](use/farming/README.md)
@@ -63,7 +62,7 @@
       * [Claim reward](use/farming/new-farming/how-to/claim-reward.md)
       * [Deposit/Withdraw farm tokens](use/farming/new-farming/how-to/deposit-withdraw-farm-tokens.md)
       * [Get a boost](use/farming/new-farming/how-to/get-a-boost.md)
-      *
+      * [Create and manage your farming pool](https://docs.flatqube.io/use/farming/new-farming/interface/farm-page-administrator)
   * [Old farming](use/farming/old-farming/README.md)
     * [Interface](use/farming/old-farming/interface/README.md)
       * [Farming pools](use/farming/old-farming/interface/farming-pools.md)
