@@ -26,5 +26,3 @@ To retrieve the underlying liquidity, plus any fees accrued, liquidity providers
 As liquidity tokens are themselves tradable assets, liquidity providers may sell, transfer, or otherwise use their liquidity tokens in any way they see fit.
 
 Since liquidity is very important, FlatQube has a special interface to encourage liquidity providers - [**Farming**](../farming/). You can lock your **LP tokens** in the appropriate farming pools for rewards.
-
-\\
