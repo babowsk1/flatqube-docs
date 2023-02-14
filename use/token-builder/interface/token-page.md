@@ -13,11 +13,11 @@ The following actions are available in the <mark style="color:orange;">**Actions
 
 #### Manage circulating supply:
 
-\*\*\*\*[**Mint**](../how-to/mint-tokens.md) \*\*\*\* - Issue additional tokens to a specific address\
+[**Mint**](../how-to/mint-tokens.md) **** - Issue additional tokens to a specific address\
 [**Burn** ](../how-to/burn-tokens.md)**-** Burn tokens at a specific address
 
 #### Danger zones
 
-\*\*\*\*[**Transfer ownership**](../how-to/transfer-ownership.md) - Set a new token owner
+[**Transfer ownership**](../how-to/transfer-ownership.md) - Set a new token owner
 
 ![](<../../../.gitbook/assets/image (233).png>)

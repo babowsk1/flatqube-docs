@@ -46,6 +46,7 @@
   * [How to](use/pools/how-to/README.md)
     * [Connect DEX account](use/pools/how-to/connect-dex-account.md)
     * [Add liquidity (Get LP tokens) / Withdraw liquidity](use/pools/how-to/add-liquidity.md)
+    * [Create a new pool](use/pools/how-to/create-a-new-pool.md)
     * [Calculate the amount of LP tokens](use/pools/how-to/calculate-the-amount-of-lp-tokens.md)
   * [Pool economics](use/pools/pool-economics.md)
 * [Farming](use/farming/README.md)
