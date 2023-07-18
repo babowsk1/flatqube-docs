@@ -74,4 +74,3 @@ You have the ability to manually stop the farming in your pool.\
 
 <figure><img src="../../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-***

@@ -64,7 +64,7 @@ The information displayed:
 
 ## **Transactions**
 
-There is the **`Transaction` ** section at the bottom of the page.
+There is the **`Transaction`** section at the bottom of the page.
 
 The information about all transactions related to a pool is displayed here, namely:
 
