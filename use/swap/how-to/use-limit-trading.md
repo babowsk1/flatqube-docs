@@ -13,7 +13,7 @@ This page provides a step-by-step guide on how to utilize Limit Trading on FlatQ
 
 After placing your limit order, you will need to wait for its execution. To learn more about how orders are executed and the concepts behind it, please refer to the [`Concept page`](../concepts/limit-orders.md).
 
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Closing an Order
 
@@ -24,4 +24,4 @@ After placing your limit order, you will need to wait for its execution. To lear
 5. Select the desired order from the list and click `Accept`.
 6. Confirm the transaction by clicking `Confirm` and approve it in the opened Ever Wallet window.
 
-<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

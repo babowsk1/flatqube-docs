@@ -27,7 +27,7 @@ This block displays the current [Farming Speed](broken-reference/), as well as t
 
 This block displays information about the [vesting ](../../../concepts/vesting.md)of this farming pool, as well as the addresses of contracts.
 
-<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### [Transactions](transactions.md)
 
