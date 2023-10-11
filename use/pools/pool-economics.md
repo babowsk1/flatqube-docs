@@ -19,7 +19,8 @@ When you’re buying a coin on FlatQube, there isn’t a seller on the other sid
 
 Whenever liquidity is [deposited ](how-to/add-liquidity.md)into a pool, unique tokens known as **LP tokens** are minted and sent to the provider's address. These tokens represent a given liquidity provider's contribution to a pool. The proportion of the pool's liquidity provided determines the number of liquidity tokens the provider receives.\
 \
-Whenever a trade occurs, a 0.3% [liquidity provider fee](../swap/concepts/fees.md) is charged to the transaction sender. This fee is distributed _pro-rata_ to all LPs in the pool upon completion of the swap.
+Whenever a trade occurs, a 0.3% [liquidity provider fee](../swap/concepts/fees.md) is charged to the transaction sender. This fee is distributed _pro-rata_ to all LPs in the pool upon completion of the swap.\
+Additionally, for pools participating in QUBE farming rewards voting, the fee is redirected towards QUBE buyback. In contrast, for all other pools, the fee remains within, amplifying the stakes of the liquidity providers.
 
 To retrieve the underlying liquidity, plus any fees accrued, liquidity providers must ["burn" their liquidity tokens](broken-reference), effectively exchanging them for their portion of the liquidity pool, plus the proportional fee allocation.
 
